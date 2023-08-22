@@ -36,6 +36,10 @@
   <item drawableIgnore="true" component="ComponentInfo{org.withouthat.acalendar/org.withouthat.acalendar.ACalendar}" drawable="themed_icon_calendar_31" name="Calendar" />
   <item drawableIgnore="true" component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="themed_icon_calendar_31" name="Calendar" />
   <!-- Lawnicons -->
+<item component="ComponentInfo{jp.co.sony.mc.videopro/jp.co.sony.mc.videopro.VideoProActivity}" drawable="sony_videopro" name="Video Pro"/>
+<item component="ComponentInfo{com.sonymobile.cinemapro/com.sonymobile.cinemapro.CinemaProActivity}" drawable="sony_cinemapro" name="Cinema Pro"/>
+<item component="ComponentInfo{com.sonymobile.gameenhancer/com.sonymobile.gameenhancer.common.MainActivity}" drawable="sony_gameenhancer" name="Game enhancer"/>
+<item component="ComponentInfo{jp.co.sony.mc.musicpro/jp.co.sony.mc.musicpro.ui.WelcomeActivity}" drawable="sony_musicpro" name="Music Pro"/>
   <item component="ComponentInfo{com.sonymobile.photopro/com.sonymobile.photopro.PhotoProActivity}" drawable="sony_photopro" name="Photo Pro"/>
   <item component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}" drawable="sony_music" name="Sony Music"/>
   <item component="ComponentInfo{com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.MainActivity}" drawable="onedotonedotonedotone" name="1.1.1.1" />
